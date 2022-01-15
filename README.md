@@ -2,8 +2,6 @@
 
 # Overview 
 
-A fork of [Max Halford's](https://github.com/MaxHalford) [flask-boilerplate](https://github.com/MaxHalford/flask-boilerplate) and https://github.com/alectrocute/flaskSaaS/edit/master/README.md
-
 ## Features
 
 - [x] User account sign up, sign in, password reset, all through asynchronous email confirmation.
@@ -18,6 +16,7 @@ A fork of [Max Halford's](https://github.com/MaxHalford) [flask-boilerplate](htt
 - [ ] Stripe subscriptions. (WIP)
 - [ ] RESTful API for payments.
 - [ ] Simple RESTful API to communicate with your app.
+- [ ] Add DeSo Blockchain
 
 ## Libraries
 
